@@ -40,9 +40,9 @@ Here are some ideas to get you started:
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/naresh-nalla-127099a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-GP-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/naresh_nalla24?lang=en"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-GP_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:nrs24@live.com"><img alt="Email" src="https://img.shields.io/badge/Email-gurupadamg@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/naresh-nalla-127099a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Naresh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://twitter.com/naresh_nalla24?lang=en"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Naresh_-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:nrs24@live.com"><img alt="Email" src="https://img.shields.io/badge/Email-nrs24@live.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Naresh](https://github.com/nareshnalla)
