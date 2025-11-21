@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; 6+ years of IT experience as a JAVA/J2EE Developer that includes developing Enterprise applications with distributed components.
+- 🤔 &nbsp; 10+ years of IT experience as a JAVA/J2EE Developer that includes developing Enterprise applications with distributed components.
 - 🎓 &nbsp; Studied Computer Science  at JNTUH College of Engineering Hyderabad.
 - 💼 &nbsp; Working as an Software Developer in at S&P GLobal Private Limited.
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Devops.
