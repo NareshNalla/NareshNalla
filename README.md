@@ -10,7 +10,7 @@ I'm a seasoned Backend Java Developer and Cloud Engineer with **11+ years of exp
 
 * 🏢 &nbsp; **Lead Software Engineer** specializing in Java Microservices, Data Engineering, and Cloud Architecture.
 * ☁️ &nbsp; Deep expertise in **Google Cloud Platform (GCP)** technologies like **Bigtable, Spanner, Pub/Sub**, and **Dataflow** using **Apache Beam**.
-* 🧠 &nbsp; Recently focused on building **AI-powered engineering agents** using **LangChain** and Python to automate developer workflows.
+* 🧠 &nbsp; Recently focused on building **AI-powered engineering agents** using **LangChain GRAPH** **A2A SERVERS** and Python to automate developer workflows.
 * 💡 &nbsp; Always focused on system reliability, high availability, and driving best practices (CI/CD, observability).
 * 🎓 &nbsp; M.Tech in Computer Science from JNTU Hyderabad.
 
@@ -21,8 +21,8 @@ I'm a seasoned Backend Java Developer and Cloud Engineer with **11+ years of exp
 | Category | Technologies |
 | :--- | :--- |
 | **Backend & Frameworks** | **Java** (Spring Boot, Spring WebFlux, Hibernate), **Python** |
-| **Cloud & Data** | **GCP** (Bigtable, Spanner, Pub/Sub), **Apache Beam**, AWS (basic) |
-| **Databases** | MySQL, PostgreSQL, Oracle, Cloud Spanner, NoSQL (Bigtable) |
+| **Cloud & Data** | **GCP** (Bigtable, Spanner, BigQuery, Firestore, Pub/Sub), **Apache Beam**, AWS (basic) |
+| **Databases** |  NoSQL (Bigtable), MySQL, PostgreSQL, Oracle, Cloud Spanner, Marklogic |
 | **DevOps & Observability** | Jenkins, ArgoCD, Docker, DataDog, Grafana |
 | **Automation & AI** | **LangChain**, Streamlit, GitHub Actions |
 
