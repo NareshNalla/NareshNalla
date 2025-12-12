@@ -1,46 +1,41 @@
-<!--
-**NareshNalla/NareshNalla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> Hey there! I'm Naresh Nalla 👋</h2>
 
-Here are some ideas to get you started:
+### 🚀 Lead Software Engineer | Cloud & Java Specialist
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h2> Hey there! I'm Naresh.</h2>
+I'm a seasoned Backend Java Developer and Cloud Engineer with **11+ years of experience** designing and building distributed, large-scale, cloud-native systems. I specialize in high-performance data pipelines and modernizing monolithic applications.
 
-<h3> 👨🏻‍💻 About Me </h3>
+---
 
-- 🤔 &nbsp; 10+ years of IT experience as a JAVA/J2EE Developer that includes developing Enterprise applications with distributed components.
-- 🎓 &nbsp; Studied Computer Science  at JNTUH College of Engineering Hyderabad.
-- 💼 &nbsp; Working as an Software Developer in at S&P GLobal Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Devops.
-- ✍️ &nbsp; Pursuing UX Design and Blog Writing as hobbies/side hustles.
+### 👨🏻‍💻 About My Current Work
 
-<h3>🛠 Tech Stack</h3>
+* 🏢 &nbsp; **Lead Software Engineer** specializing in Java Microservices, Data Engineering, and Cloud Architecture.
+* ☁️ &nbsp; Deep expertise in **Google Cloud Platform (GCP)** technologies like **Bigtable, Spanner, Pub/Sub**, and **Dataflow** using **Apache Beam**.
+* 🧠 &nbsp; Recently focused on building **AI-powered engineering agents** using **LangChain** and Python to automate developer workflows.
+* 💡 &nbsp; Always focused on system reliability, high availability, and driving best practices (CI/CD, observability).
+* 🎓 &nbsp; M.Tech in Computer Science from JNTU Hyderabad.
 
-- 💻 &nbsp; Java | Spring | Spring Boot | Microservice | Rest | Hibernate | JPA
-- 🌐 &nbsp; JavaScript | Node.js 
-- 🛢 &nbsp;  MySQL | MongoDB
-- 🔧 &nbsp; Docker | AWS | Ansible | Git | Maven
+---
 
+### 🛠 Core Tech Stack
 
-<br/>
+| Category | Technologies |
+| :--- | :--- |
+| **Backend & Frameworks** | **Java** (Spring Boot, Spring WebFlux, Hibernate), **Python** |
+| **Cloud & Data** | **GCP** (Bigtable, Spanner, Pub/Sub), **Apache Beam**, AWS (basic) |
+| **Databases** | MySQL, PostgreSQL, Oracle, Cloud Spanner, NoSQL (Bigtable) |
+| **DevOps & Observability** | Jenkins, ArgoCD, Docker, DataDog, Grafana |
+| **Automation & AI** | **LangChain**, Streamlit, GitHub Actions |
 
-[![AVS1508's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NareshNalla&show_icons=true)](https://github.com/NareshNalla)
+---
 
+[![NareshNalla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NareshNalla&show_icons=true&theme=vue&hide_border=true)](https://github.com/NareshNalla)
 
-<h3> 🤝🏻 Connect with Me </h3>
+---
+
+### 🤝🏻 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/naresh-nalla-127099a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Naresh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://twitter.com/naresh_nalla24?lang=en"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-Naresh_-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:nrs24@live.com"><img alt="Email" src="https://img.shields.io/badge/Email-nrs24@live.com-blue?style=flat-square&logo=gmail"></a>
+<a href="[Your LinkedIn URL]"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Naresh-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:nrs24.naresh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-nrs24.naresh@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="[Your GitHub URL]"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Profile-black?style=flat-square&logo=github"></a>
 </p>
-
-⭐️ From [Naresh](https://github.com/nareshnalla)
